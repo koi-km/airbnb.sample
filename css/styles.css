@@ -310,7 +310,7 @@ section .contents2 .contents2-right {
 
 section .contents2 .contents2-right .right-img {
   height: 100%;
-  background-image: url(/images/8e6c68cc-e714-4849-bad9-464abf58e84a.jpg);
+  background-image: url(/airbnb.sample/images/8e6c68cc-e714-4849-bad9-464abf58e84a.jpg);
   background-size: cover;
 }
 
@@ -363,7 +363,7 @@ section .contents3 .contents-flex .contents-right ul li:before {
 
 section .contents3 .contents3-img {
   height: 580px;
-  background-image: url(/images/bb358a46-fa25-4895-b5fd-048a386bdcac.jpg);
+  background-image: url(airbnb.sample/images/bb358a46-fa25-4895-b5fd-048a386bdcac.jpg);
   background-size: cover;
 }
 
@@ -423,7 +423,7 @@ section .contents5 {
 section .contents5 .contents-left {
   height: 100%;
   width: 45%;
-  background-image: url(/images/4e8524b4-205e-4fdf-9f0a-f1f36905c8f6.jpg);
+  background-image: url(airbnb.sample/images/4e8524b4-205e-4fdf-9f0a-f1f36905c8f6.jpg);
   background-size: cover;
 }
 
@@ -591,19 +591,19 @@ section .section9 .section9-flex .section9-flex_item {
 
 section .section9 .section9-flex .section9-flex_item .section9-img1 {
   height: 170px;
-  background-image: url(/images/489faa5d-9519-48fa-aa0e-fe9673165e43.jpg);
+  background-image: url(/airbnb.sample/images/489faa5d-9519-48fa-aa0e-fe9673165e43.jpg);
   background-size: cover;
 }
 
 section .section9 .section9-flex .section9-flex_item .section9-img2 {
   height: 170px;
-  background-image: url(/images/b77eb430-aa14-4ceb-a832-109341f798cd.jpg);
+  background-image: url(/airbnb.sample/images/b77eb430-aa14-4ceb-a832-109341f798cd.jpg);
   background-size: cover;
 }
 
 section .section9 .section9-flex .section9-flex_item .section9-img3 {
   height: 170px;
-  background-image: url(/images/1ad4d764-38a6-464b-8fdd-b0f3339adf2f.jpg);
+  background-image: url(/airbnb.sample/images/1ad4d764-38a6-464b-8fdd-b0f3339adf2f.jpg);
   background-size: cover;
 }
 
