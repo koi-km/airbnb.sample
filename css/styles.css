@@ -628,6 +628,7 @@ section .section9 .section9-flex .section9-flex_item a {
 
 .section10 .section10-img {
   height: 100%;
+  background-color: blue;
   background-image: url("/airbnb.sample/images/dbe25d99-6821-4e02-802f-fcd7aaef85bc.webp");
   background-size: cover;
 }
