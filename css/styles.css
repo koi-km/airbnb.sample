@@ -90,7 +90,7 @@ main .main-bg-img {
 }
 
 main .main-bg-img .bg-img {
-  background-image: url("/images/photo-1585720357660-c107d927f249.jpeg");
+  background-image: url("airbnb.sample/images/photo-1585720357660-c107d927f249.jpeg");
   height: 100vh;
   width: 100%;
   background-size: cover;
